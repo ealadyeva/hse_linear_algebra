@@ -35,4 +35,8 @@
 Если <img src="/tex/d7390019e5f9d9dcee82a92b3e0a5375.svg?invert_in_darkmode&sanitize=true" align=middle width=38.82599489999999pt height=21.18721440000001pt/>, то утверждение верно. Пусть <img src="/tex/4cef834009ebff502536412a60029e8f.svg?invert_in_darkmode&sanitize=true" align=middle width=38.82599489999999pt height=22.831056599999986pt/>  
 <img src="/tex/902a2c60e6260f6d183dcd977164d104.svg?invert_in_darkmode&sanitize=true" align=middle width=231.33506054999995pt height=27.77565449999998pt/>  
 
-
+## Подпространство линейного пространства
+Пусть <img src="/tex/ddcb483302ed36a59286424aa5e0be17.svg?invert_in_darkmode&sanitize=true" align=middle width=11.18724254999999pt height=22.465723500000017pt/>-линейное пространство, <img src="/tex/50ef6fa1adf32e736c56144332eb14bc.svg?invert_in_darkmode&sanitize=true" align=middle width=17.73973739999999pt height=22.465723500000017pt/> - его подмножество, само являющееся линейным пространством. 
+Мы будем говорить, что <img src="/tex/fb97d38bcc19230b0acd442e17db879c.svg?invert_in_darkmode&sanitize=true" align=middle width=17.73973739999999pt height=22.465723500000017pt/>-линейное подпространство или подпространство линейного пространства.
+Для того чтобы подмножество линейного пространства являлось линейным подпространством, необходимо и
+достаточно чтобы операции сложения и умножения на число не выводили из этого подмножества.  
