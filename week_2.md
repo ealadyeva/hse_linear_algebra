@@ -1,0 +1,10 @@
+## Линейная функция
+Функция <img src="/tex/4fb4c0fe1ef8e116dbcc0bfb8329a518.svg?invert_in_darkmode&sanitize=true" align=middle width=27.831191849999993pt height=24.65753399999998pt/>, ставящая в соответствие элементу <img src="/tex/2f2322dff5bde89c37bcae4116fe20a8.svg?invert_in_darkmode&sanitize=true" align=middle width=5.2283516999999895pt height=22.831056599999986pt/> линейного пространства <img src="/tex/ddcb483302ed36a59286424aa5e0be17.svg?invert_in_darkmode&sanitize=true" align=middle width=11.18724254999999pt height=22.465723500000017pt/>
+действительное число <img src="/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/>, называется линейной, если выполняются следующие условия:
+ 1. для любых <img src="/tex/8452e1e44724dfc5a537f5e2a3a90d34.svg?invert_in_darkmode&sanitize=true" align=middle width=31.042639649999987pt height=22.831056599999986pt/> верно <img src="/tex/3ddccd181a8727fa30f07368d4a63e26.svg?invert_in_darkmode&sanitize=true" align=middle width=179.025891pt height=24.65753399999998pt/>
+ 2. для любого <img src="/tex/e5eda459f8aca1b6ee73d651871e3204.svg?invert_in_darkmode&sanitize=true" align=middle width=5.2283516999999895pt height=22.831056599999986pt/> и любого действительного числа <img src="/tex/9c854422af18f8e8f6b24ead25268334.svg?invert_in_darkmode&sanitize=true" align=middle width=9.58908224999999pt height=22.831056599999986pt/> верно <img src="/tex/dfb9b1e8c8a0b60c9171c0f31300b52a.svg?invert_in_darkmode&sanitize=true" align=middle width=62.53425419999999pt height=24.65753399999998pt/>
+ 
+## Свойства линейной функции
+- Графиком линейной функции является прямая
+- Прирост линейной функции зависит только от прироста аргумента, и не зависит от того, в какой 
+точке мы ищем прирост <img src="/tex/73d888a7b5ca417b106526b04f6d8c2a.svg?invert_in_darkmode&sanitize=true" align=middle width=346.9799057999999pt height=24.65753399999998pt/>
