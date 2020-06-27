@@ -8,3 +8,4 @@
 - Графиком линейной функции является прямая
 - Прирост линейной функции зависит только от прироста аргумента, и не зависит от того, в какой 
 точке мы ищем прирост <img src="/tex/73d888a7b5ca417b106526b04f6d8c2a.svg?invert_in_darkmode&sanitize=true" align=middle width=346.9799057999999pt height=24.65753399999998pt/>
+- Значение линейной функции в 0 всегда равно 0 <img src="/tex/415077f6e62df38ec10dd7dfe5144737.svg?invert_in_darkmode&sanitize=true" align=middle width=192.41992439999999pt height=24.65753399999998pt/>, <img src="/tex/2f2322dff5bde89c37bcae4116fe20a8.svg?invert_in_darkmode&sanitize=true" align=middle width=5.2283516999999895pt height=22.831056599999986pt/> - элемент линейного пространста <img src="/tex/ddcb483302ed36a59286424aa5e0be17.svg?invert_in_darkmode&sanitize=true" align=middle width=11.18724254999999pt height=22.465723500000017pt/>
